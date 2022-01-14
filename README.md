@@ -19,5 +19,11 @@ To view this program, download eyes.css, eyes.js, and eyes.html into the same di
 * CSS
 * JavaScript
 
+# Planned Future Improvements
+- [X] change pupil color
+- [X] add shine to eyes
+- [ ] make shine effect remain static for realistic effect
+- [ ] make eye blink on mouse click
+
 # License
 This project is licensed under the MIT License.
